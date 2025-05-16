@@ -1,4 +1,5 @@
 Emotion Detection from Images (Python)
+
 This project is an AI-powered system for real-time emotion detection from facial images. Using deep learning techniques, it analyzes facial expressions from uploaded images and predicts the underlying emotion with approximately 90% accuracy.
 
 🎯 Project Overview
