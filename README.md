@@ -49,7 +49,7 @@ pip
 bash
 Copy
 Edit
-git clone (https://github.com/your-username/emotion-detection-images.git](https://github.com/Muhammad-junaid-mujtaba/emotion-detection.git)
+git clone(https://github.com/Muhammad-junaid-mujtaba/emotion-detection.git)
 cd emotion-detection-images
 2️⃣ (Optional) Create Virtual Environment
 bash
